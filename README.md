@@ -1,2 +1,2 @@
 # LTUGDemoApp
-A React Native Application
+React Native Demo Application for LTUG
